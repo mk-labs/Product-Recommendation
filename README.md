@@ -8,7 +8,7 @@ In order to do this, a sentiment-based product recommendation system has been de
 
 The Recommendation system is up and runing on the below url: https://sentiment-based-prod-reco.herokuapp.com/
 
-All the source code and supported files in github: https://github.com/mk-labs/sentiment_based_prod_reco.git
+All the source code and supported files in github: https://github.com/mk-labs/Product-Recommendation.git
 
 Below tasks have been carried out to build the sentiment-based product recommendation system:
 
